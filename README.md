@@ -1,12 +1,12 @@
 # claw-checkin
 
-ClawdCon check-in service (separate from demos/voting).
+Claw Con check-in service (separate from demos/voting).
 
 ## Goals
 - Fast door check-in (QR scan + fallback search)
 - Integrate with Luma API (server-side `LUMA_API_KEY`)
-- Produce a durable **"human verified"** signal: **any ClawdCon check-in ever**
-- Expose a small API that other ClawdCon apps can call
+- Produce a durable **"human verified"** signal: **any Claw Con check-in ever**
+- Expose a small API that other Claw Con apps can call
 
 ## Pilot mapping
 - `claw-con-denver-2026` → Luma event id `evt-ERBCC1uBPoAdSWe`
